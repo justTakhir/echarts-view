@@ -1,13 +1,14 @@
 .wrapper {
+  /* margin-top: 2rem; */
   display: flex;
   justify-content: right;
 }
 
 .page {
   border: 1px solid black;
-  width: 20px;
-  height: 20px;
-  line-height: 20px;
+  width: 5rem;
+  height: 5rem;
+  line-height: 5rem;
   margin: auto 0 auto 1rem;
 }
 
